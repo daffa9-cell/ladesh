@@ -14,7 +14,7 @@ body {
   text-allign: centre;
 }
 
-.kartu-profil img{
+.kartu-profil.img{
   width: 150px;
   border-radius: 50%
 }
